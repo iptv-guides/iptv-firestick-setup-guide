@@ -1,4 +1,4 @@
-# IPTV Firestick Setup Guide 2026: TiviMate, IPTV Smarters and Xtream Codes (USA, UK, Canada)
+# IPTV Firestick Setup Guide 2026: TiviMate, IPTV Smarters & Xtream Codes
 
 > **Disclosure:** This guide is written by the Ark IPTV team. The setup steps work with any Xtream Codes or M3U provider. The Ark IPTV section is our own description of our service, not an independent review.
 >
