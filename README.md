@@ -10,6 +10,8 @@ Who this is for: viewers in the **USA, UK and Canada** who want to set up IPTV o
 - [Fix IPTV buffering and freezing](iptv-buffering-fix.md)
 - [IPTV on Samsung, LG and Android Smart TVs](iptv-smart-tv-setup.md)
 - [Xtream Codes vs M3U: which login type to use](xtream-codes-vs-m3u.md)
+- [Why IPTV freezes during live sports (and how to fix it before kickoff)](https://sites.google.com/view/iptv-live-sports-buffering)
+- [Cable vs IPTV cost in 2026: US, UK & Canada compared](https://cordcutting-cost-guides.blogspot.com/2026/10/cable-vs-iptv-cost-2026.html)
 
 ## Contents
 1. [What you need](#1-what-you-need)
