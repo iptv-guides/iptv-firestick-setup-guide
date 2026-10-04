@@ -44,13 +44,14 @@ Most buffering problems come from the home network, not the provider.
 
 ## 3. Set up on Firestick or Android TV with TiviMate
 
-### Step 1: Allow app installs (Firestick)
-1. Go to **Settings > My Fire TV > Developer Options**.
-2. Turn on **Apps from Unknown Sources** for the *Downloader* app.
+### Step 1: Install Downloader and allow app installs (Firestick)
+1. Search for **Downloader** in the Amazon Appstore and install it.
+2. Go to **Settings > My Fire TV > Developer Options**, open **Install unknown apps** (called *Apps from Unknown Sources* on older models), and turn it on for **Downloader**.
+   - If you don't see Developer Options, go to **Settings > My Fire TV > About** and click your device name 7 times.
 
 ### Step 2: Install the player
-1. Install **Downloader** from the Amazon Appstore.
-2. Install **TiviMate** (on Android TV it is available on Google Play, on Firestick follow the app's official instructions).
+- **Android TV / Google TV:** install **TiviMate** from Google Play.
+- **Firestick:** open Downloader and enter the download link published on TiviMate's official website. Only use the official link, not a mirror.
 
 ### Step 3: Add your playlist
 1. Open TiviMate and choose **Add Playlist**.
@@ -60,6 +61,10 @@ Most buffering problems come from the home network, not the provider.
 ### Step 4: Recommended settings
 - Turn on automatic **EPG updates**.
 - If your device is old, lower the default stream quality or use a smaller buffer so channels start quickly.
+
+> **Looking for a provider?** This guide is written by the Ark IPTV team.
+> Ark IPTV offers 4K / FHD / HD streams, 61,000+ live channels and a
+> **24-hour free trial**. [See plans or request a trial](https://arkiptv.com/?utm_source=github&utm_medium=readme&utm_campaign=setup-guide-cta)
 
 ## 4. Set up on IPTV Smarters or a Smart TV
 

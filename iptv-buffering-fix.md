@@ -25,7 +25,7 @@ Run [speedtest.net](https://www.speedtest.net) on the same network and at the sa
 3. Reopen the IPTV app.
 
 ## 4. Clear the app and reload the playlist
-- Clear the app cache (Settings > Applications > the app > Clear cache).
+- Clear the app cache. On Firestick: **Settings > Applications > Manage Installed Applications > your IPTV app > Clear cache**. On Android TV: **Settings > Apps > your IPTV app > Clear cache**.
 - Reload or re-add the playlist and let the TV guide finish downloading.
 
 ## 5. Check one channel or all channels
