@@ -2,3 +2,27 @@ title: IPTV Guides
 description: Step-by-step IPTV setup for Firestick, Android TV and Smart TV with TiviMate, IPTV Smarters, Xtream Codes and M3U. Written by the Ark IPTV team.
 theme: jekyll-theme-minimal
 lang: en
+url: https://iptv-guides.github.io
+baseurl: /iptv-firestick-setup-guide
+author: Ark IPTV team
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope: {path: "README.md"}
+    values:
+      description: "How to set up IPTV on a Firestick, Android TV or Smart TV in 2026: install TiviMate or IPTV Smarters, add an Xtream Codes or M3U login, and fix common errors."
+      faq_key: setup
+  - scope: {path: "iptv-buffering-fix.md"}
+    values:
+      description: "IPTV buffering or freezing on Firestick or Smart TV? 10 fixes in the order that helps most, from speed tests and Wi-Fi to cache, buffer size and DNS."
+      faq_key: buffering
+  - scope: {path: "iptv-smart-tv-setup.md"}
+    values:
+      description: "How to watch IPTV on a Samsung, LG, Sony, TCL or Hisense Smart TV in 2026: which player apps work, step-by-step setup, and when to use a Firestick instead."
+      faq_key: smarttv
+  - scope: {path: "xtream-codes-vs-m3u.md"}
+    values:
+      description: "Xtream Codes vs M3U explained: what each IPTV login is, how they differ for the TV guide, movies and updates, and which one to use in TiviMate, Smarters or VLC."
+      faq_key: xtream
