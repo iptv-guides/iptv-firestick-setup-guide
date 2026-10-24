@@ -10,6 +10,7 @@ Who this is for: viewers in the **USA, UK and Canada** who want to set up IPTV o
 - [Fix IPTV buffering and freezing](iptv-buffering-fix.md)
 - [IPTV on Samsung, LG and Android Smart TVs](iptv-smart-tv-setup.md)
 - [Xtream Codes vs M3U: which login type to use](xtream-codes-vs-m3u.md)
+- [TiviMate setup guide 2026: add your playlist, best settings and EPG fixes](https://cordcutting-cost-guides.blogspot.com/2026/10/tivimate-setup-guide-2026.html)
 - [Why IPTV freezes during live sports (and how to fix it before kickoff)](https://sites.google.com/view/iptv-live-sports-buffering)
 - [Cable vs IPTV cost in 2026: US, UK & Canada compared](https://cordcutting-cost-guides.blogspot.com/2026/10/cable-vs-iptv-cost-2026.html)
 - [IPTV TV guide (EPG) not working? 7 fixes for TiviMate, Smarters and Firestick](https://iptvhelpdesk.wordpress.com/2026/10/09/iptv-epg-not-working/)
